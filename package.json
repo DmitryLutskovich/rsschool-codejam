@@ -1,0 +1,26 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "rsschool-codejam-3",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint file1.js file2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryLutskovich/rsschool-codejam.git"
+  },
+  "author": "Lutskovich Dmitry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitryLutskovich/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/DmitryLutskovich/rsschool-codejam#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
